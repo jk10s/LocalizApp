@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ProyectoCiclo4</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="sitio_insertar_titulo">Insertar Sitio</string>
+    <string name="sitio_insertar_txtNombre">Nombre del sitio</string>
+    <string name="sitio_insertar_txtDescripcion">Descripción del sitio</string>
+    <string name="sitio_insertar_txtLatitud">latitud</string>
+    <string name="sitio_insertar_txtLongitud">longitud</string>
+    <string name="sitio_insertar_btnVolver">Volver</string>
+    <string name="sitio_insertar_btnGuardar">Guardar</string>
+    <string name="sitio_editar_titulo">Editar Sitio</string>
+    <string name="sitio_editar_txtNombre">Digite el nombre del sitio</string>
+    <string name="sitio_editar_txtDescripcion">Digite la descripción del sitio</string>
+    <string name="sitio_editar_txtLatitud">Digite la latitud de la coordenada</string>
+    <string name="sitio_editar_txtLongitud">Digite la longitud de la coordenada</string>
+    <string name="sitio_editar_btnVolver">Volver</string>
+    <string name="sitio_editar_btnGuardar">Guardar</string>
+    <string-array name="tipo_sitios">
+        <item>Restaurante</item>
+        <item>Taller</item>
+        <item>Hotel</item>
+        <item>Punto de Encuentro</item>
+        <item>Parque</item>
+    </string-array>
+    <string name="title_activity_maps">MapsActivity</string>
+
+
+</resources>

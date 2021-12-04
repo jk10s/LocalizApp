@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "477755689564",
+    "project_id": "localizapp-e8cfb",
+    "storage_bucket": "localizapp-e8cfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477755689564:android:8791552d56d90e49943499",
+        "android_client_info": {
+          "package_name": "com.example.proyectociclo4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477755689564-v4e0jab75jk21ak9ng9auq09va3m89q5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM8xkvKbWAcIYQhv9bJYm1FZ1WHv12uEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477755689564-v4e0jab75jk21ak9ng9auq09va3m89q5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
